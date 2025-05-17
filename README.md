@@ -7,7 +7,7 @@ promovendo uma visão integrada e eficiente do negócio.
 
 ---
 
-## Funcionalidades
+## Funcionalidades do Sistema
 
 ### Análise de Dados
 - Margem de Lucro: Cálculo por produto e categoria
@@ -37,27 +37,27 @@ promovendo uma visão integrada e eficiente do negócio.
 - Collections Framework: Manipulação eficiente de dados
 - Stream API: Processamento de dados em paralelo
 - **Estrutura**
-- Padrão MVC: Separação clara de responsabilidades
-- Injeção de Dependência: Manual para serviços
-- POJOs: Modelos de dados bem definidos
+  - Padrão MVC: Separação clara de responsabilidades
+  - Injeção de Dependência: Manual para serviços
+  - POJOs: Modelos de dados bem definidos
 
 ---
 
 ## COMO EXECUTAR O PROGRAMA?
 ### Pré-requisitos
-- JDK 8 ou superior
-- Apache NetBeans 13 ou superior
-- Arquivo Excel no formato especificado (já fornecido)
+  - JDK 8 ou superior
+  - Apache NetBeans 13 ou superior
+  - Arquivo Excel no formato especificado (já fornecido)
 
 - **Abrir o NetBeans**
-- Inicie o NetBeans normalmente.
+  - Inicie o NetBeans normalmente.
 
 - **Importar o Projeto**
-- Vá em File > Open Project (Arquivo > Abrir Projeto).
-- Navegue até a pasta do seu projeto e selecione-o (a pasta deve conter um arquivo nbproject).
+  - Vá em File > Open Project (Arquivo > Abrir Projeto).
+  - Navegue até a pasta do seu projeto e selecione-o (a pasta deve conter um arquivo nbproject).
 
 - **Executar o Programa**
-- Clique com o botão direito no projeto > Run (ou pressione F6).
-- A saída será exibida no terminal do NetBeans.
+  - Clique com o botão direito no projeto > Run (ou pressione F6).
+  - A saída será exibida no terminal do NetBeans.
 
 ---
