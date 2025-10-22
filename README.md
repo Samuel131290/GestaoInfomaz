@@ -45,19 +45,17 @@ promovendo uma visão integrada e eficiente do negócio.
 
 ## COMO EXECUTAR O PROGRAMA?
 ### Pré-requisitos
-  - JDK 8 ou superior
-  - Apache NetBeans 13 ou superior
-  - Arquivo Excel no formato especificado (já fornecido)
+- JDK 8 ou superior
+- Apache NetBeans 13 ou superior
+- Arquivo Excel no formato especificado (já fornecido)
 
-- **Abrir o NetBeans**
-  - Inicie o NetBeans normalmente.
+### Abrir o NetBeans
+- Inicie o NetBeans normalmente.
 
-- **Importar o Projeto**
-  - Vá em File > Open Project (Arquivo > Abrir Projeto).
-  - Navegue até a pasta do seu projeto e selecione-o (a pasta deve conter um arquivo nbproject).
+### Importar o Projeto
+- Vá em File > Open Project (Arquivo > Abrir Projeto).
+- Navegue até a pasta do seu projeto e selecione-o (a pasta deve conter um arquivo nbproject).
 
-- **Executar o Programa**
-  - Clique com o botão direito no projeto > Run (ou pressione F6).
-  - A saída será exibida no terminal do NetBeans.
-
----
+### Executar o Programa
+- Clique com o botão direito no projeto > Run (ou pressione F6).
+- A saída será exibida no terminal do NetBeans.
